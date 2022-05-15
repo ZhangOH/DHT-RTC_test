@@ -1,6 +1,4 @@
-# DHT-RTC_test
-
-# 第九组
+# 第九组 DHT-RTC_test
 
 18211428 张纯纯
 
