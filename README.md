@@ -8,4 +8,4 @@
 
 18211063 比尔力克
 
-**实验中没有采用老师给的LM1637库 采用了Grove_4-Digit_Display的LM1637库 具体库文件放在GITHUB里了
+**实验中没有采用老师给的LM1637库(实在是用不了QAQ)采用了Grove_4-Digit_Display的LM1637库 具体库文件放在GITHUB里了
